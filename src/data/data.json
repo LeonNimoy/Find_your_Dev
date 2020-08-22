@@ -6,7 +6,7 @@
     "from": "🇧🇷",
     "programmingLanguages": "JS",
     "budget": "💲1.5k",
-    "working": true,
+    "remote": true,
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit eleifend ante, vitae sollicitudin lorem mollis nec. Aliquam pellentesque vehicula diam molestie venenatis. Praesent consectetur vitae justo et ultrices. Aliquam vulputate, est vitae eleifend vestibulum, sapien dui fermentum neque, id congue turpis risus ut sapien. Nulla nec nunc non turpis tempus feugiat quis ac eros. In hac habitasse platea dictumst. Maecenas vitae sodales purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis arcu mattis nunc viverra consectetur."
   },
   {
@@ -16,7 +16,7 @@
     "from": "🇦🇺",
     "programmingLanguages": "Python",
     "budget": "💲1.4k",
-    "working": false,
+    "remote": false,
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit eleifend ante, vitae sollicitudin lorem mollis nec. Aliquam pellentesque vehicula diam molestie venenatis. Praesent consectetur vitae justo et ultrices. Aliquam vulputate, est vitae eleifend vestibulum, sapien dui fermentum neque, id congue turpis risus ut sapien. Nulla nec nunc non turpis tempus feugiat quis ac eros. In hac habitasse platea dictumst. Maecenas vitae sodales purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis arcu mattis nunc viverra consectetur."
   },
   {
@@ -26,7 +26,7 @@
     "from": "🇨🇭",
     "programmingLanguages": "Go",
     "budget": "💲3k",
-    "working": true,
+    "remote": true,
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit eleifend ante, vitae sollicitudin lorem mollis nec. Aliquam pellentesque vehicula diam molestie venenatis. Praesent consectetur vitae justo et ultrices. Aliquam vulputate, est vitae eleifend vestibulum, sapien dui fermentum neque, id congue turpis risus ut sapien. Nulla nec nunc non turpis tempus feugiat quis ac eros. In hac habitasse platea dictumst. Maecenas vitae sodales purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis arcu mattis nunc viverra consectetur."
   },
   {
@@ -36,7 +36,7 @@
     "from": "🇸🇰",
     "programmingLanguages": "Java",
     "budget": "💲3.2k",
-    "working": true,
+    "remote": true,
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit eleifend ante, vitae sollicitudin lorem mollis nec. Aliquam pellentesque vehicula diam molestie venenatis. Praesent consectetur vitae justo et ultrices. Aliquam vulputate, est vitae eleifend vestibulum, sapien dui fermentum neque, id congue turpis risus ut sapien. Nulla nec nunc non turpis tempus feugiat quis ac eros. In hac habitasse platea dictumst. Maecenas vitae sodales purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis arcu mattis nunc viverra consectetur."
   },
   {
@@ -44,9 +44,9 @@
     "devName": "dev5",
     "image": "👨🏻‍💻",
     "from": "🇦🇷",
-    "programmingLanguages": "Java",
+    "programmingLanguages": "C++",
     "budget": "💲5k",
-    "working": false,
+    "remote": false,
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit eleifend ante, vitae sollicitudin lorem mollis nec. Aliquam pellentesque vehicula diam molestie venenatis. Praesent consectetur vitae justo et ultrices. Aliquam vulputate, est vitae eleifend vestibulum, sapien dui fermentum neque, id congue turpis risus ut sapien. Nulla nec nunc non turpis tempus feugiat quis ac eros. In hac habitasse platea dictumst. Maecenas vitae sodales purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis arcu mattis nunc viverra consectetur."
   }
 ]

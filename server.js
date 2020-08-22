@@ -13,10 +13,10 @@ const replaceTemplate = (temp, developer) => {
   output = output.replace(/{%DESCRIPTION%}/g, developer.description);
   output = output.replace(/{%ID%}/g, developer.id);
 
-  if (!developer.organic) {
-    output = output.replace(/{%NOT_WORKING%}/g, 'not-working');
+  if (developer.remote) {
+    output = output.replace(/{%NOT_REMOTE%}/g, '');
   } else {
-    output = output.replace(/{%NOT_WORKING%}/g, '');
+    output = output.replace(/{%NOT_REMOTE%}/g, 'not-remote');
   }
   return output;
 };
@@ -50,7 +50,7 @@ const server = http.createServer((req, res) => {
     const output = tempOverview.replace('{%DEVELOPERS_CARDS%}', cardsHtml);
     res.end(output);
 
-    // Product page
+    // Details page
   } else if (pathName === '/developer') {
     res.end('This is the PRODUCT');
     // API

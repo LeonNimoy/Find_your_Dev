@@ -1,7 +1,7 @@
 {
-  "name": "Pantheon_of_Pirates",
+  "name": "find_your_dev",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "repository": "git@github.com:LeonNimoy/Pantheon_of_Pirates.git",
   "author": "LeonNimoy <leonardo.msc42@gmail.com>",
   "license": "MIT",

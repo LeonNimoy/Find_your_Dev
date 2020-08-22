@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "devName": "dev1",
+    "image": "👨‍💻",
+    "from": "🇧🇷",
+    "programmingLanguages": "JS",
+    "budget": "💲1.5k",
+    "working": true,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit eleifend ante, vitae sollicitudin lorem mollis nec. Aliquam pellentesque vehicula diam molestie venenatis. Praesent consectetur vitae justo et ultrices. Aliquam vulputate, est vitae eleifend vestibulum, sapien dui fermentum neque, id congue turpis risus ut sapien. Nulla nec nunc non turpis tempus feugiat quis ac eros. In hac habitasse platea dictumst. Maecenas vitae sodales purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis arcu mattis nunc viverra consectetur."
+  },
+  {
+    "id": 1,
+    "devName": "dev2",
+    "image": "👩‍💻",
+    "from": "🇦🇺",
+    "programmingLanguages": "Python",
+    "budget": "💲1.4k",
+    "working": false,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit eleifend ante, vitae sollicitudin lorem mollis nec. Aliquam pellentesque vehicula diam molestie venenatis. Praesent consectetur vitae justo et ultrices. Aliquam vulputate, est vitae eleifend vestibulum, sapien dui fermentum neque, id congue turpis risus ut sapien. Nulla nec nunc non turpis tempus feugiat quis ac eros. In hac habitasse platea dictumst. Maecenas vitae sodales purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis arcu mattis nunc viverra consectetur."
+  },
+  {
+    "id": 2,
+    "devName": "dev3",
+    "image": "👩🏽‍💻",
+    "from": "🇨🇭",
+    "programmingLanguages": "Go",
+    "budget": "💲3k",
+    "working": true,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit eleifend ante, vitae sollicitudin lorem mollis nec. Aliquam pellentesque vehicula diam molestie venenatis. Praesent consectetur vitae justo et ultrices. Aliquam vulputate, est vitae eleifend vestibulum, sapien dui fermentum neque, id congue turpis risus ut sapien. Nulla nec nunc non turpis tempus feugiat quis ac eros. In hac habitasse platea dictumst. Maecenas vitae sodales purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis arcu mattis nunc viverra consectetur."
+  },
+  {
+    "id": 3,
+    "devName": "dev4",
+    "image": "👩🏻‍💻",
+    "from": "🇸🇰",
+    "programmingLanguages": "Java",
+    "budget": "💲3.2k",
+    "working": true,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit eleifend ante, vitae sollicitudin lorem mollis nec. Aliquam pellentesque vehicula diam molestie venenatis. Praesent consectetur vitae justo et ultrices. Aliquam vulputate, est vitae eleifend vestibulum, sapien dui fermentum neque, id congue turpis risus ut sapien. Nulla nec nunc non turpis tempus feugiat quis ac eros. In hac habitasse platea dictumst. Maecenas vitae sodales purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis arcu mattis nunc viverra consectetur."
+  },
+  {
+    "id": 4,
+    "devName": "dev5",
+    "image": "👨🏻‍💻",
+    "from": "🇦🇷",
+    "programmingLanguages": "Java",
+    "budget": "💲5k",
+    "working": false,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit eleifend ante, vitae sollicitudin lorem mollis nec. Aliquam pellentesque vehicula diam molestie venenatis. Praesent consectetur vitae justo et ultrices. Aliquam vulputate, est vitae eleifend vestibulum, sapien dui fermentum neque, id congue turpis risus ut sapien. Nulla nec nunc non turpis tempus feugiat quis ac eros. In hac habitasse platea dictumst. Maecenas vitae sodales purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis arcu mattis nunc viverra consectetur."
+  }
+]
